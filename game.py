@@ -1,3 +1,4 @@
+#This is a cross game we used to play in schools i.e. cross and zeros 
 import random
 starting_board = [
     [" ", " ", " "],
